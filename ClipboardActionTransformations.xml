@@ -225,6 +225,28 @@
                 <to control="1" key="Slash" />
             </transform>
 
+            <!-- Left -->
+            <transform>
+                <from command="1" key="Left" />
+                <to control="1" key="Left" />
+            </transform>
+            <!-- Right -->
+            <transform>
+                <from command="1" key="Right" />
+                <to control="1" key="Right" />
+            </transform>
+            <!-- Down -->
+            <transform>
+                <from command="1" key="Down" />
+                <to control="1" key="Down" />
+            </transform>
+            <!-- Up -->
+            <transform>
+                <from command="1" key="Up" />
+                <to control="1" key="Up" />
+            </transform>
+
+
 
 
 
@@ -417,6 +439,28 @@
                 <from command="1" shift="1" key="Slash" />
                 <to control="1" shift="1" key="Slash" />
             </transform>
+
+            <!-- Left -->
+            <transform>
+                <from command="1" shift="1" key="Left" />
+                <to control="1" shift="1" key="Left" />
+            </transform>
+            <!-- Right -->
+            <transform>
+                <from command="1" shift="1" key="Right" />
+                <to control="1" shift="1" key="Right" />
+            </transform>
+            <!-- Down -->
+            <transform>
+                <from command="1" shift="1" key="Down" />
+                <to control="1" shift="1" key="Down" />
+            </transform>
+            <!-- Up -->
+            <transform>
+                <from command="1" shift="1" key="Up" />
+                <to control="1" shift="1" key="Up" />
+            </transform>
+            
             <!-- Shift -->
             <!--  https://docs.rs/piston/0.49.0/piston/keyboard/enum.Key.html#variant.Separator  -->
 
