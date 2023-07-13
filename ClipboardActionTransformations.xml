@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<!-- Reference document: 
+https://support.apple.com/en-ca/HT201236  
+https://michaeljcole.github.io/wiki.unrealengine.com/List_of_Key/Gamepad_Input_Names/
+http://lallouslab.net/2016/06/14/keyboard-shortcuts-windows-rdp-macbook/
+-->
 <!-- transformation for clipboard actions (cut copy paste) -->
 <!-- layout specific -->
 <layouts>
@@ -40,12 +45,19 @@
     <!-- the default is US keyboard physical position for X C V -->
     <layout name="default">
         <transformations>
-            <!-- Q -->
+
+            <transform>
+                <from command="1" key="Delete" />
+                <to key="ForwardDelete" />
+            </transform>
+
+            <!-- QWERTYUIOP[]\ -->
+            <!-- Command+Q to Control+Q -->
             <transform>
                 <from command="1" key="Q" />
                 <to control="1" key="Q" />
             </transform>
-            <!-- W -->
+            <!-- W --><!-- not work!!! -->
             <transform>
                 <from command="1" key="W" />
                 <to control="1" key="w" />
@@ -108,7 +120,7 @@
 
 
 
-
+            <!-- ASDFGHJKL;'Return -->
             <!-- Command+A to Control+A -->
             <transform>
                 <from command="1" key="A" />
@@ -173,7 +185,7 @@
 
 
 
-
+            <!-- ZXCVBNM,./LeftRightDownUp -->
             <!-- Command+Z to Control+Z -->
             <transform>
                 <from command="1" key="Z" />
