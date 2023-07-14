@@ -12,3 +12,11 @@ Install
 2. 
 <img width="644" alt="setting" src="https://user-images.githubusercontent.com/23163073/177980597-ae64dcc4-2482-42b5-ba71-af3255889ecf.png">
 
+
+
+Note
+-------
+Some keyboard shortcuts are reserved by the operating system and cannot be remap
+
+e.g. 
+command + w 
