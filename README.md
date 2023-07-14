@@ -2,18 +2,19 @@
 MacOS shortcut binding for `Microsoft Remote Desktop Client`
 
 Already remap:
+```shell
 1.
-command + qwertyuiop[]\            ctrl +  qwertyuiop[]\
-          asdfghjkl;'        ->            asdfghjkl;'
-          zxcvbnm,./                       zxcvbnm,./
+command + qwertyuiop[]\                    ctrl +  qwertyuiop[]\
+          asdfghjkl;'                ->            asdfghjkl;'
+          zxcvbnm,./                               zxcvbnm,./
 
 2.
 command + shift + qwertyuiop[]\            ctrl + shift +  qwertyuiop[]\
                   asdfghjkl;'        ->                    asdfghjkl;'
                   zxcvbnm,./                               zxcvbnm,./
 3.
-command + Delete   ->     Delete
-
+command + Delete                     ->    Delete
+```
 
 Install
 -------
