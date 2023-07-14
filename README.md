@@ -1,6 +1,18 @@
 # MicrosoftRemoteDesktop-Setting
 MacOS shortcut binding for `Microsoft Remote Desktop Client`
 
+Already remap:
+1.
+command + qwertyuiop[]\            ctrl +  qwertyuiop[]\
+          asdfghjkl;'        ->            asdfghjkl;'
+          zxcvbnm,./                       zxcvbnm,./
+
+2.
+command + shift + qwertyuiop[]\            ctrl + shift +  qwertyuiop[]\
+                  asdfghjkl;'        ->                    asdfghjkl;'
+                  zxcvbnm,./                               zxcvbnm,./
+3.
+command + Delete   ->     Delete
 
 
 Install
@@ -18,5 +30,5 @@ Note
 -------
 Some keyboard shortcuts are reserved by the operating system and cannot be remap
 
-e.g. 
+1.
 command + w 
