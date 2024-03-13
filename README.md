@@ -29,8 +29,13 @@ Install
 
 Note
 -------
-Generally speaking, command + w is reserved by the operating system and cannot be passed to MicrosoftRemoteDesktop, but according to the method given by ALEUT, it can be configured in this way:
+Generally speaking, command + w is reserved by the operating system and cannot be passed to MicrosoftRemoteDesktop, but according to the method given by @ALEUT, it can be configured in this way:
 
 <img width="644" alt="image" src="https://github.com/dezhaoli/MicrosoftRemoteDesktop-Setting/assets/23163073/9dd16997-ac50-4b8e-ac7b-7d5ddabf3dfb">
 
 In system settings, add a Close action with a new combination to MicrosoftRemoteDesktop app. After that, Cmd + W will work fine.
+
+Finally, I changed the shortcut shown below, and all the remaps worked：
+
+<img width="670" alt="image" src="https://github.com/dezhaoli/MicrosoftRemoteDesktop-Setting/assets/23163073/65942332-dbb2-428f-819a-ad46e3e6c58e">
+
