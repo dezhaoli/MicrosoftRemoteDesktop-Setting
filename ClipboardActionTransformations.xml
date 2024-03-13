@@ -60,7 +60,7 @@ http://lallouslab.net/2016/06/14/keyboard-shortcuts-windows-rdp-macbook/
             <!-- W --><!-- not work!!! -->
             <transform>
                 <from command="1" key="W" />
-                <to control="1" key="w" />
+                <to control="1" key="W" />
             </transform>
             <!-- E -->
             <transform>
